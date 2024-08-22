@@ -5,6 +5,7 @@ Hello there. Welcome to the technical orientation for the online MSDS program.
 0. **watch** Jurassic Park ([link to free access via uva library](https://digitalcampus-swankmp-net.proxy1.library.virginia.edu/uva296909/play/bafece83e07de665?referrer=marc))
 
     * Explain two ethical challenges the characters in the movie face and what you would do in their place.
+         *Ethical Challenge 1: 
     * Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
 1. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 
